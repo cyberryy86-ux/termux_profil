@@ -1,1 +1,1 @@
-# termux_profil
+# termux_style
